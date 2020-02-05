@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iziigeecu.frederikhaaning.dk/sitemap.xml
